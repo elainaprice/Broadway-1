@@ -1,4 +1,10 @@
  body {
-   font-style: Helvetica;
+   font-family: Helvetica;
    text-align: center;
  }
+
+.header {
+  font-size: 70px;
+  font-weight: Bold;
+  color: white;
+}

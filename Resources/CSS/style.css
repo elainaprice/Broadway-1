@@ -13,6 +13,16 @@ background-image: url("/Users/elainaprice/Desktop/Broadway/Resources/CSS/Images/
   color: white;
 }
 
+h2 {
+  font-size: 32px
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 23px
+  font-weight: bold;
+}
+
 .designed-in-newyork {
   font-size: 23px;
   color: white;
@@ -23,4 +33,11 @@ background-image: url("/Users/elainaprice/Desktop/Broadway/Resources/CSS/Images/
 .link {
   font-size: 18px;
   color: white;
+}
+
+h4 {
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+  text-align: left;
 }

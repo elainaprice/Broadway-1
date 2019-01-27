@@ -3,14 +3,21 @@ body {
   text-align: center;
 }
 
-.page-top {
-  background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
+ .page-top {
+background-image: url("/Users/elainaprice/Desktop/Broadway/Resources/CSS/Images/the-flatiron-building.png");
 }
 
 .header {
   font-size: 70px;
   font-weight: Bold;
   color: white;
+}
+
+.designed-in-newyork {
+  font-size: 23px;
+  color: white;
+  font-weight: bold;
+  background-image: url("/Users/elainaprice/Desktop/Broadway/Resources/CSS/Images/the-flatiron-building.png");
 }
 
 .link {
